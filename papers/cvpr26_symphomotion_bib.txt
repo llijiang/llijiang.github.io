@@ -1,0 +1,6 @@
+@inproceedings{zhang2026symphomotion,
+  title={SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation},
+  author={Zhang, Guiyu and Chen, Yabo and Xiang, Xunzhi and Huang, Junchao and Wang, Zhongyu and Jiang, Li},
+  booktitle={CVPR},
+  year={2026}
+}

@@ -1,0 +1,6 @@
+@inproceedings{shi2026unisplat,
+  title={UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction},
+  author={Shi, Chen and Shi, Shaoshuai and Lyu, Xiaoyang and Liu, Chunyang and Sheng, Kehua and Zhang, Bo and Jiang, Li},
+  booktitle={ICLR},
+  year={2026}
+}

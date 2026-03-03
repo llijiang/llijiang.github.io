@@ -1,0 +1,6 @@
+@inproceedings{qian2026geopredict,
+  title={GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation},
+  author={Qian, Jingjing and Han, Boyao and Shi, Chen and Xiao, Lei and Yang, Long and Shi, Shaoshuai and Jiang, Li},
+  booktitle={CVPR},
+  year={2026}
+}

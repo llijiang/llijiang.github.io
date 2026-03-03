@@ -1,0 +1,6 @@
+@inproceedings{fan2026flashvid,
+  title={FlashVID: Efficient Video Large Language Models via Training-free Tree-based Spatiotemporal Token Merging},
+  author={Fan, Ziyang and Li, Yulin and Xing, Ruilong and Chen, Keyu and Jiang, Li and Tian, Zhuotao},
+  booktitle={ICLR},
+  year={2026}
+}
