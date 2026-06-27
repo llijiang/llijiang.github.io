@@ -1,0 +1,6 @@
+@inproceedings{qian2026escape,
+  title={ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation},
+  author={Qian, Jingjing and He, Zeyuan and Shi, Chen and Xiao, Lei and Jiang, Li},
+  booktitle={ECCV},s
+  year={2026}
+}
