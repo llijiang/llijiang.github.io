@@ -1,0 +1,6 @@
+@article{xie2026videorae,
+  title={VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders},
+  author={Xie, Zhihao and Wu, Junfeng and Hu, Xinting and Huang, Junchao and Jiang, Li},
+  journal={arXiv preprint arXiv:2607.14088},
+  year={2026}
+}

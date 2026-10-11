@@ -1,0 +1,6 @@
+@article{huang2026solarwm,
+  title={SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models},
+  author={Huang, Junchao and Fang, Guian and Qian, Shengju and Kong, Xianghao and Zhao, Zhuoran and Huang, Wei and Du, Yihua and Zhang, Zixin and Cui, Justin and Gu, Yuchao and Chen, Yukang and Hu, Xinting and He, Tianyu and Shi, Shaoshuai and Tian, Zhuotao and Wang, Xin and Shou, Mike Zheng and Jiang, Li},
+  journal={arXiv preprint arXiv:2609.02886},
+  year={2026}
+}

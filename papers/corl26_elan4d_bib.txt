@@ -1,0 +1,6 @@
+@inproceedings{he2026elan4d,
+  title={ELAN4D: Embodiment-Centric 4D Supervision for Vision-Language-Action Models via Plug-and-Play Adaptation},
+  author={He, Zeyuan and Yang, Bowen and Fang, Zhirui and Zhou, Keru and Jiang, Lei and Qian, Jingjing and Mo, Fan and Yan, Junchi and Torr, Philip and Li, Xiu and Jiang, Li and Yu, Jialin},
+  booktitle={CoRL},
+  year={2026}
+}

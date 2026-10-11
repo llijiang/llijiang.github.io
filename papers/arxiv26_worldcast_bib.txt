@@ -1,0 +1,6 @@
+@article{ye2026worldcast,
+  title={WorldCast: Distributed Multiplayer World Models},
+  author={Ye, Ziyang and Huang, Junchao and Zhang, Evelyn and Xie, Zhihao and Zhang, Ruicheng and Han, Boyao and Ban, Litao and Wang, Ziye and Hu, Xinting and Shi, Shaoshuai and Tian, Zhuotao and Jiang, Li},
+  journal={arXiv preprint arXiv:2610.12412},
+  year={2026}
+}

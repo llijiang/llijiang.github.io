@@ -1,0 +1,6 @@
+@article{shao2026localcognition,
+  title={Enhancing Local Cognition of CLIP for Training-Free Open Vocabulary Semantic Segmentation},
+  author={Shao, Tong and Tian, Zhuotao and Mo, Yunyang and Sun, Guoying and Jiang, Li and Zhao, Hengshuang and Su, Jingyong},
+  journal={TPAMI},
+  year={2026}
+}

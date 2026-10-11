@@ -1,0 +1,6 @@
+@inproceedings{shi2026drivewam,
+  title={DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving},
+  author={Shi, Chen and Xu, Jinrui and Shi, Shaoshuai and Sheng, Kehua and Zhang, Bo and Jiang, Li},
+  booktitle={NeurIPS},
+  year={2026}
+}

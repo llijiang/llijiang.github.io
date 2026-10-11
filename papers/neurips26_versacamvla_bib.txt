@@ -1,0 +1,6 @@
+@inproceedings{han2026versacamvla,
+  title={VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation},
+  author={Han, Boyao and Shi, Chen and Qian, Jingjing and Tian, Zhuotao and Jiang, Li},
+  booktitle={NeurIPS},
+  year={2026}
+}

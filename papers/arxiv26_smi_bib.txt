@@ -1,0 +1,6 @@
+@article{yang2026smi,
+  title={Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory},
+  author={Yang, Ying and Zhang, Guiyu and Huang, Lianghua and Nie, Chang and Si, Chenyang and Wang, Haofan and Shi, Shaoshuai and Jiang, Li},
+  journal={arXiv preprint arXiv:2610.02521},
+  year={2026}
+}

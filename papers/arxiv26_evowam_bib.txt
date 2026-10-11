@@ -1,0 +1,6 @@
+@article{zhou2026evowam,
+  title={EVO-WAM: Evolving World Action Models through Video-Action Verification},
+  author={Zhou, Shiyang and Wu, Xionghao and Li, Wenbo and Zheng, Shenghe and Zhang, Jiyao and Yu, Songsong and Yang, Yijun and Liu, Jianhui and Sun, Haoze and Yang, Senqiao and Jiang, Li and Su, Jingyong and Huang, Haoyang and Tian, Zhuotao},
+  journal={arXiv preprint arXiv:2609.38057},
+  year={2026}
+}

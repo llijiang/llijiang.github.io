@@ -1,0 +1,6 @@
+@inproceedings{huang2026memory,
+  title={Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft},
+  author={Huang, Junchao and Hu, Xinting and Han, Boyao and Shi, Shaoshuai and Tian, Zhuotao and He, Tianyu and Jiang, Li},
+  booktitle={NeurIPS},
+  year={2026}
+}

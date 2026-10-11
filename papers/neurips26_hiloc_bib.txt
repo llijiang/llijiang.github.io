@@ -1,0 +1,6 @@
+@inproceedings{zhang2026hiloc,
+  title={HiLoc: A Hierarchical Representation Method for Spatial Localization in Multimodal Large Language Models},
+  author={Zhang, Evelyn and Yu, Fufu and Li, Hanjun and Wu, Aoqi and Yan, Ke and Ding, Shouhong and Ren, Tianhe and Hu, Xinting and Qi, Xiaojuan and Jiang, Li and Jia, Jiaya},
+  booktitle={NeurIPS},
+  year={2026}
+}

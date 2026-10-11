@@ -1,0 +1,6 @@
+@inproceedings{ding2026semanticconsistency,
+  title={Learning Semantic Consistency for Open-Vocabulary Dense Perception},
+  author={Ding, Li and Wang, Junjie and Yang, Jingjun and Wang, Jiaze and Qin, Libo and Jiang, Li and Tian, Zhuotao},
+  booktitle={NeurIPS},
+  year={2026}
+}
